@@ -640,7 +640,7 @@ re-treinar o modelo a partir dela.
 
 ## 🎬 Vídeo de apresentação
 
-🎬 **Link do vídeo (Sprint 3):** *[inserir link do YouTube]*
+🎬 **Link do vídeo (Sprint 3):** [https://youtu.be/JQaKTtTWM7A](https://youtu.be/JQaKTtTWM7A)
 
 ---
 
